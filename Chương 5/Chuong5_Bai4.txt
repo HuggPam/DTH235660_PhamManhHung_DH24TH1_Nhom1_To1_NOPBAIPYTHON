@@ -1,0 +1,12 @@
+Một số hàm quan trọng trong xử lý chuỗi của Python:
+
+- `len(s)`: Trả về độ dài chuỗi `s`.
+- `s.upper()`: Chuyển chuỗi sang chữ hoa.
+- `s.lower()`: Chuyển chuỗi sang chữ thường.
+- `s.strip()`: Loại bỏ khoảng trắng ở đầu và cuối chuỗi.
+- `s.split(sep)`: Tách chuỗi thành danh sách theo ký tự phân tách `sep`.
+- `s.replace(old, new)`: Thay thế chuỗi con `old` bằng `new`.
+- `s.find(sub)`: Tìm vị trí xuất hiện đầu tiên của chuỗi con `sub`.
+- `s.join(list)`: Nối các phần tử trong danh sách thành chuỗi, dùng chuỗi `s` làm phân cách.
+
+Các hàm này giúp thao tác, kiểm tra, chuyển đổi và xử lý dữ liệu chuỗi hiệu quả trong Python.
